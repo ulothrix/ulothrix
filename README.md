@@ -3,7 +3,7 @@
 #### 🔭 I’m currently working on Java Spring related projects. 
 #### 
 
-#### 📫 How to reach me: ...
+<!-- #### 📫 How to reach me: ... -->
 <!--
 **ulothrix/ulothrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
