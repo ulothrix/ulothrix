@@ -2,9 +2,11 @@
 
 #### 🔭 I’m currently working on Java Spring related projects. 
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhat-akdeniz-664546ba/)](https://www.linkedin.com/in/serhat-akdeniz-664546ba/) 
-[![Gmail Badge](https://img.shields.io/badge/-isen.kubilay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zerhat@gmail.com)](mailto:zerhat@gmail.com)
--->
+You can contact me from;
+
+[![Linkedin Badge](https://img.shields.io/badge/-serhat--akdeniz--664546ba-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhat-akdeniz-664546ba)](https://www.linkedin.com/in/serhat-akdeniz-664546ba)
+
+[![Hackerrank Badge](https://img.shields.io/badge/HackerRank-zerhat-lightgreen?logo=HackerRank&link=https://www.hackerrank.com/zerhat)](https://www.hackerrank.com/zerhat)
 
 <!-- Software Engineer at <a href="https://www.ozdilekteyim.com" target="_blank"><img width="100px" height="50px" style="vertical-align:middle" src="https://www.ozdilek.com.tr/tr/images/logo/logo.svg" /></a>
 
