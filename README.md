@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on Java Spring related projects. 
 
-You can contact me from;
+You can contact me via;
 
 [![Linkedin Badge](https://img.shields.io/badge/-serhat--akdeniz--664546ba-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhat-akdeniz-664546ba)](https://www.linkedin.com/in/serhat-akdeniz-664546ba)
 
